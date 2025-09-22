@@ -2,7 +2,7 @@
 
 ![Logo do app](./assets/icon/icon2.png)
 
-**ConsultaCEP** é um aplicativo simples e intuitivo que permite consultar várias informações de CEPs utilizando APIs públicas. O app está em constante desenvolvimento, evoluindo conforme meus conhecimentos em Flutter e Dart aumentam, garantindo funcionalidades eficientes e código limpo a cada atualização.
+**ConsultaCEP** é um aplicativo simples e intuitivo que permite consultar várias informações de CEPs utilizando APIs públicas. O app está em constante desenvolvimento, evoluindo conforme meus conhecimentos em Flutter e Dart, garantindo funcionalidades eficientes e código limpo a cada atualização.
 
 ---
 
@@ -29,7 +29,7 @@
 
 1. Clone o repositório:  
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO>
+git clone https://github.com/WandsonDev/ConsultaCEP.git
 ````
 
 2. Entre na pasta do projeto:
@@ -62,5 +62,4 @@ Este projeto está licenciado sob a **MIT License** — veja o arquivo [LICENSE]
 
 Feito com ❤️ para aprender e experimentar Flutter/Dart.
 
-```
-# ConsultaCEP
+``
